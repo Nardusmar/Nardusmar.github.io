@@ -30,7 +30,8 @@ Soy Martha Nardeth Martinez Rodriguez, Data Analyst especializada en People Anal
 Recientemente completé una formación intensiva en SQL, Python y Power BI a través de un bootcamp, aplicando estas herramientas al análisis de KPIs, NPS y reportes gerenciales. Mi stack técnico incluye SQL, Python, Power BI, Tableau, Excel avanzado y dashboards ejecutivos, además de experiencia trabajando con Oracle, ERP, HRIS y el ecosistema Microsoft.
 
 Actualmente busco aplicar este criterio analítico en proyectos de análisis de datos orientados a negocio, donde pueda combinar mi experiencia funcional en RH con habilidades técnicas de análisis y visualización de datos.
-## Portafolio de Análisis de Datos sobre Casos de Negocio · 2025–2026
+
+## Portafolio de Análisis de Datos · 2025–2026
 
 **[Análisis de Rentabilidad y Retención – Caso RappiPlus](#)**  
 `SQL` · `Python` · `Test A/B` · `Power BI`  
