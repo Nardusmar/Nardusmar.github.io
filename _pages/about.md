@@ -30,8 +30,3 @@ Soy Martha Nardeth Martinez Rodriguez, Data Analyst especializada en People Anal
 Recientemente completé una formación intensiva en SQL, Python y Power BI a través de un bootcamp, aplicando estas herramientas al análisis de KPIs, NPS y reportes gerenciales. Mi stack técnico incluye SQL, Python, Power BI, Tableau, Excel avanzado y dashboards ejecutivos, además de experiencia trabajando con Oracle, ERP, HRIS y el ecosistema Microsoft.
 
 Actualmente busco aplicar este criterio analítico en proyectos de análisis de datos orientados a negocio, donde pueda combinar mi experiencia funcional en RH con habilidades técnicas de análisis y visualización de datos.
-Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
