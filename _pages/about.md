@@ -34,6 +34,8 @@ Actualmente busco aplicar este criterio analítico en proyectos de análisis de 
 
 </div>
 
+<div style="text-align: justify;">
+  
 ## Proyectos· 2025–2026
 
 **[Análisis de Rentabilidad y Retención](#)**  
@@ -78,3 +80,5 @@ Diseño de experimento A/B con asignación aleatoria entre dos versiones de land
 **[Segmentación y Predicción de Churn – ConnectaTel](#)**  
 `SQL` · `Python` · `Segmentación Estadística`  
 Modelo de datos relacional a partir de 3 fuentes para construir perfiles estadísticos de clientes y detectar comportamientos atípicos, traduciendo los hallazgos en segmentos accionables para estrategias de retención.
+
+</div>
