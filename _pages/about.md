@@ -25,11 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <div style="text-align: justify;">
+  
 Soy Martha Nardeth Martinez Rodriguez, Data Analyst especializada en People Analytics y Business Intelligence. Cuento con más de 6 años de experiencia traduciendo datos operativos en información útil para la toma de decisiones en entornos de Recursos Humanos y administración.
 
 Recientemente completé una formación intensiva en SQL, Python y Power BI a través de un bootcamp, aplicando estas herramientas al análisis de KPIs, NPS y reportes gerenciales. Mi stack técnico incluye SQL, Python, Power BI, Tableau, Excel avanzado y dashboards ejecutivos, además de experiencia trabajando con Oracle, ERP, HRIS y el ecosistema Microsoft.
 
 Actualmente busco aplicar este criterio analítico en proyectos de análisis de datos orientados a negocio, donde pueda combinar mi experiencia funcional en RH con habilidades técnicas de análisis y visualización de datos.
+
 </div>
 
 ## Proyectos· 2025–2026
