@@ -34,15 +34,18 @@ Actualmente busco aplicar este criterio analítico en proyectos de análisis de 
 
 </div>
 
-<div style="text-align: justify;">
   
-## Proyectos· 2025–2026
+# Proyectos· 2025–2026
 
-**[Análisis de Rentabilidad y Retención](#)**  
+**[Análisis de Rentabilidad y Retención](#)** 
+
+<div style="text-align: justify;">
 
 Hoy en día, las empresas de tecnología prueban constantemente nuevas ideas: cambios en el producto, campañas de marketing, ajustes en la experiencia de usuario. Pero probar no es suficiente si no se mide el resultado. Los datos permiten monitorear el desempeño real de estas iniciativas y verificar, con evidencia, si las decisiones tomadas realmente están generando valor para el negocio.
 En este contexto se enmarca el análisis de RappiPlus, el servicio de suscripción de Rappi diseñado para aumentar la frecuencia de compra y el valor generado por usuario. El equipo de negocio necesitaba respuestas concretas: ¿los usuarios compran más?, ¿el modelo es rentable?, ¿en qué punto del proceso se pierden los usuarios?, ¿regresan a la plataforma?, ¿los cambios implementados realmente tienen impacto?
 Para responder estas preguntas, se trabajó con datos de pedidos, catálogo, marketing, comportamiento de usuarios y un experimento A/B, combinando Python y SQL para limpiar, analizar y validar la información, y así convertir datos crudos en decisiones de negocio accionables.
+
+</div>
 
 **Preguntas Clave:**
 ¿Los usuarios realmente compran más?
@@ -81,4 +84,3 @@ Diseño de experimento A/B con asignación aleatoria entre dos versiones de land
 `SQL` · `Python` · `Segmentación Estadística`  
 Modelo de datos relacional a partir de 3 fuentes para construir perfiles estadísticos de clientes y detectar comportamientos atípicos, traduciendo los hallazgos en segmentos accionables para estrategias de retención.
 
-</div>
