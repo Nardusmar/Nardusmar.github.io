@@ -43,7 +43,6 @@ Actualmente busco aplicar este criterio analítico en proyectos de análisis de 
 
 Hoy en día, las empresas de tecnología prueban constantemente nuevas ideas: cambios en el producto, campañas de marketing, ajustes en la experiencia de usuario. Pero probar no es suficiente si no se mide el resultado. Los datos permiten monitorear el desempeño real de estas iniciativas y verificar, con evidencia, si las decisiones tomadas realmente están generando valor para el negocio.
 En este contexto se enmarca el análisis de RappiPlus, el servicio de suscripción de Rappi diseñado para aumentar la frecuencia de compra y el valor generado por usuario. El equipo de negocio necesitaba respuestas concretas: ¿los usuarios compran más?, ¿el modelo es rentable?, ¿en qué punto del proceso se pierden los usuarios?, ¿regresan a la plataforma?, ¿los cambios implementados realmente tienen impacto?
-Para responder estas preguntas, se trabajó con datos de pedidos, catálogo, marketing, comportamiento de usuarios y un experimento A/B, combinando Python y SQL para limpiar, analizar y validar la información, y así convertir datos crudos en decisiones de negocio accionables.
 
 </div>
 
@@ -53,15 +52,17 @@ Para responder estas preguntas, se trabajó con datos de pedidos, catálogo, mar
 ¿Se están perdiendo oportunidades en el proceso de compra?
 
 **Herramientas:**
-`SQL` · `Python` · `Test A/B` · `Power BI`  
 ![Python](https://img.shields.io/badge/Python-1F4E79?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1F4E79?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-1F4E79?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Test A/B](https://img.shields.io/badge/Test%20A%2FB-1F4E79?style=for-the-badge)
+
+
 **Metodología:**
 1.-	Diseño de una arquitectura de datos integrando 5 fuentes (pedidos, catálogo, marketing, uso y transacciones) mediante SQL para consolidar una vista única del cliente.
 2.-	Realización de un análisis de retención por cohortes y un test A/B para validar el impacto real de un cambio en el flujo de checkout.
 3.-	Estructuración de un dashboard ejecutivo que visualizó los puntos de fuga del funnel y las métricas clave de rentabilidad para la toma de decisiones directivas.
+
 **Insings destacados:**
 * La retención es muy estable entre semanas — los usuarios que regresan en semana 1 tienden a seguir activos en semana 2 y 3. No hay caída drástica.
 * Solo ~42% de usuarios regresa — más de la mitad de los usuarios no vuelve después de registrarse. Hay oportunidad de mejora con estrategias de reactivación (emails, notificaciones, ofertas).
