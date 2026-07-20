@@ -58,20 +58,9 @@ En este contexto se enmarca el análisis de RappiPlus, el servicio de suscripci�
 ![Test A/B](https://img.shields.io/badge/Test%20A%2FB-1F4E79?style=for-the-badge)
 
 
-**Metodología:**
-1.-	Diseño de una arquitectura de datos integrando 5 fuentes (pedidos, catálogo, marketing, uso y transacciones) mediante SQL para consolidar una vista única del cliente.
-2.-	Realización de un análisis de retención por cohortes y un test A/B para validar el impacto real de un cambio en el flujo de checkout.
-3.-	Estructuración de un dashboard ejecutivo que visualizó los puntos de fuga del funnel y las métricas clave de rentabilidad para la toma de decisiones directivas.
-
-**Insings destacados:**
-* La retención es muy estable entre semanas — los usuarios que regresan en semana 1 tienden a seguir activos en semana 2 y 3. No hay caída drástica.
-* Solo ~42% de usuarios regresa — más de la mitad de los usuarios no vuelve después de registrarse. Hay oportunidad de mejora con estrategias de reactivación (emails, notificaciones, ofertas).
-* No hay diferencia significativa entre cohortes — el producto se comporta igual mes a mes, lo que indica consistencia pero también que no ha habido mejoras que aumenten la retención.
-Prueba A/B testing -NO rechazamos H₀
-- Aunque el grupo de tratamiento muestra una tasa de conversión ligeramente mayor (16.29% vs 15.69%), la diferencia de 0.60 puntos porcentuales NO es estadísticamente significativa.
-- Con un p-valor de 0.4319, hay un 43% de probabilidad de que esta diferencia sea simplemente por azar, muy por encima del 5% permitido.
 **Proyecto completo**
-  
+[![Open in GitHub](https://img.shields.io/badge/GitHub-Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nardusmar/analisis-retencion-rappi.git)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1AG1FaJv3bNFCSsiR81VnzBuaSjN-JUGM/view?usp=sharing) 
   
 **[Dashboard Ejecutivo de Desempeño Comercial – Sector Inmobiliario](#)**  
 `Power BI` · `SQL`  
