@@ -26,11 +26,7 @@ latest_posts:
 ---
 <div style="text-align: justify;">
   
-Soy Martha Nardeth Martinez Rodriguez, Data Analyst especializada en People Analytics y Business Intelligence. Cuento con más de 6 años de experiencia traduciendo datos operativos en información útil para la toma de decisiones en entornos de Recursos Humanos y administración.
-
-Recientemente completé una formación intensiva en SQL, Python y Power BI a través de un bootcamp, aplicando estas herramientas al análisis de KPIs, NPS y reportes gerenciales. Mi stack técnico incluye SQL, Python, Power BI, Tableau, Excel avanzado y dashboards ejecutivos, además de experiencia trabajando con Oracle, ERP, HRIS y el ecosistema Microsoft.
-
-Actualmente busco aplicar este criterio analítico en proyectos de análisis de datos orientados a negocio, donde pueda combinar mi experiencia funcional en RH con habilidades técnicas de análisis y visualización de datos.
+Analista con 6+ años de experiencia en People Analytics y Business Intelligence, combinando criterio de negocio en RH con habilidades técnicas en SQL, Python y Power BI. He traducido datos operativos en decisiones accionables para dirección, y actualmente aplico este mismo enfoque a proyectos de análisis de datos end-to-end: desde la limpieza y modelado hasta dashboards ejecutivos y pruebas estadísticas.
 
 </div>
 
@@ -110,11 +106,11 @@ En este contexto se enmarca el análisis de ConnectaTel, empresa de telecomunica
 Estructuración de datos de ventas, clientes y propiedades en métricas de desempeño comercial (conversión, ticket promedio, comportamiento de clientes), visualizadas en un dashboard ejecutivo usado por dirección para decisiones estratégicas de crecimiento.
 
 **Preguntas Clave:**
-¿Qué segmentos de clientes muestran mayor o menor uso de llamadas y mensajes?
-¿Qué usuarios presentan valores atípicos que puedan indicar comportamientos inusuales, fraude o errores de registro?
-¿Cómo varía el uso según la edad y el tipo de plan contratado?
-¿Qué patrones pueden ayudar a diseñar mejores planes, optimizar la oferta y mejorar la satisfacción del cliente?
-
+¿Cuál es el ingreso total generado por las ventas de propiedades?
+¿Qué tipo de propiedad genera más ingresos?
+¿Qué segmentos de clientes compran más?
+¿Cómo evolucionan las ventas en el tiempo?
+¿El negocio está creciendo año contra año?
 
 **Proyecto completo**
 [![Descargar](https://img.shields.io/badge/GitHub-Descargar-181717?style=for-the-badge&logo=github&logoColor=white)](https://drive.google.com/file/d/1Bj8pCDVL8haCjauE9jQABpyiW_5WGZVU/view?usp=drive_link)
