@@ -30,6 +30,13 @@ Analista con 6+ años de experiencia en People Analytics y Business Intelligence
 
 </div>
 
+
+
+
+
+
+
+
   
 # Proyectos· 2025–2026
 
@@ -113,5 +120,4 @@ Estructuración de datos de ventas, clientes y propiedades en métricas de desem
 ¿El negocio está creciendo año contra año?
 
 **Proyecto completo**
-[![Descargar](https://img.shields.io/badge/GitHub-Descargar-181717?style=for-the-badge&logo=github&logoColor=white)](https://drive.google.com/file/d/1Bj8pCDVL8haCjauE9jQABpyiW_5WGZVU/view?usp=drive_link)
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Bj8pCDVL8haCjauE9jQABpyiW_5WGZVU/view?usp=drive_link) 
