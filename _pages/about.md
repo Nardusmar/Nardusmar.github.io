@@ -40,84 +40,95 @@ Analista con 6+ años de experiencia en People Analytics y Business Intelligence
   
 # Proyectos· 2025–2026
 
-**[Análisis de Rentabilidad y Retención de usuarios](#)** 
+**[Análisis de Rentabilidad y Retención de usuarios]**
 `Python` · `Power BI` · `Excel/SQL`
 
-<div style="text-align: justify;">
+> Evalué si el modelo de suscripción RappiPlus realmente aumenta la frecuencia de compra y es rentable, identificando en qué punto del funnel se pierden usuarios.
 
-Hoy en día, las empresas de tecnología prueban constantemente nuevas ideas: cambios en el producto, campañas de marketing, ajustes en la experiencia de usuario. Pero probar no es suficiente si no se mide el resultado. Los datos permiten monitorear el desempeño real de estas iniciativas y verificar, con evidencia, si las decisiones tomadas realmente están generando valor para el negocio.
-En este contexto se enmarca el análisis de RappiPlus, el servicio de suscripción de Rappi diseñado para aumentar la frecuencia de compra y el valor generado por usuario. El equipo de negocio necesitaba respuestas concretas: ¿los usuarios compran más?, ¿el modelo es rentable?, ¿en qué punto del proceso se pierden los usuarios?, ¿regresan a la plataforma?, ¿los cambios implementados realmente tienen impacto?
+<details>
+<summary>Ver contexto completo</summary>
 
-</div>
+[Hoy en día, las empresas de tecnología prueban constantemente nuevas ideas: cambios en el producto, campañas de marketing, ajustes en la experiencia de usuario. Pero probar no es suficiente si no se mide el resultado. Los datos permiten monitorear el desempeño real de estas iniciativas y verificar, con evidencia, si las decisiones tomadas realmente están generando valor para el negocio.
+En este contexto se enmarca el análisis de RappiPlus, el servicio de suscripción de Rappi diseñado para aumentar la frecuencia de compra y el valor generado por usuario. El equipo de negocio necesitaba respuestas concretas: ¿los usuarios compran más?, ¿el modelo es rentable?, ¿en qué punto del proceso se pierden los usuarios?, ¿regresan a la plataforma?, ¿los cambios implementados realmente tienen impacto?]
 
+</details>
 
-**Preguntas Clave:**
+**Preguntas clave que respondí:**
 ¿Los usuarios realmente compran más?
 ¿El modelo está generando ganancias?
 ¿Se están perdiendo oportunidades en el proceso de compra?
 
 
-**Proyecto completo**
 [![Open in GitHub](https://img.shields.io/badge/GitHub-Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nardusmar/analisis-retencion-rappi.git)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1AG1FaJv3bNFCSsiR81VnzBuaSjN-JUGM/view?usp=sharing) 
 
-
-  
-**[Test A/B para Optimización de Conversión Web](#)**
+**[Test A/B para Optimización de Conversión Web]**
 `Python` · `Estadística Inferencial` · `Excel/SQL`
 
-<div style="text-align: justify;">
+> Determiné con evidencia estadística si una nueva versión de landing page realmente convierte más que la actual, y qué canales de tráfico rinden mejor.
 
-En ecommerce, cada punto porcentual de conversión se traduce directamente en ingresos. Cambiar el diseño de una landing page puede parecer una decisión de diseño menor, pero sin evidencia estadística sólida, esa decisión queda a criterio de opinión y no de datos. Los equipos de producto y marketing necesitan saber, con certeza, si un cambio realmente mueve la aguja antes de invertir en implementarlo a gran escala.
+<details>
+<summary>Ver contexto completo</summary>
 
-En este contexto se enmarca el análisis de un experimento A/B sobre dos versiones de landing page (A y B) de una tienda de ecommerce. El equipo de negocio necesitaba respuestas concretas: ¿la página B realmente convierte más que la A?, ¿el gasto promedio por usuario cambia entre versiones?, ¿qué canales de tráfico rinden mejor?, ¿el tipo de usuario (nuevo o recurrente) influye en la conversión?
+[En ecommerce, cada punto porcentual de conversión se traduce directamente en ingresos. Cambiar el diseño de una landing page puede parecer una decisión de diseño menor, pero sin evidencia estadística sólida, esa decisión queda a criterio de opinión y no de datos. Los equipos de producto y marketing necesitan saber, con certeza, si un cambio realmente mueve la aguja antes de invertir en implementarlo a gran escala.
 
-</div>
+En este contexto se enmarca el análisis de un experimento A/B sobre dos versiones de landing page (A y B) de una tienda de ecommerce. El equipo de negocio necesitaba respuestas concretas: ¿la página B realmente convierte más que la A?, ¿el gasto promedio por usuario cambia entre versiones?, ¿qué canales de tráfico rinden mejor?, ¿el tipo de usuario (nuevo o recurrente) influye en la conversión?]
 
-**Preguntas Clave:**
+</details>
+
+**Preguntas clave que respondí:**
 ¿Existe una diferencia significativa en el gasto promedio por usuario convertido entre ambas versiones?
 ¿Qué versión de la página (A o B) genera mayor tasa de conversión?
 ¿La conversión depende de la fuente de tráfico?
 
-
-**Proyecto completo**
 [![Open in GitHub](https://img.shields.io/badge/GitHub-Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nardusmar/A-BTesting.git)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1S5aOlQpi_oUvRiTNzqP_1cwrOFCkTc-9/view?usp=sharing) 
-
-
-**[Análisis de Comportamiento de Clientes ](#)**  
+  
+**[Análisis de Comportamiento de Clientes]**
 `SQL` · `Python` · `Segmentación Estadística`
 
-<div style="text-align: justify;">
+> Segmenté a los clientes de una telecom según su nivel de consumo real para detectar riesgo de cancelación, oportunidades de upgrade y comportamientos atípicos.
 
-En telecomunicaciones, todos los clientes pagan un plan, pero no todos lo usan igual. Algunos exceden sus límites mes tras mes sin darse cuenta de que un plan superior les saldría más barato; otros pagan por minutos y datos que jamás consumen, acumulando frustración silenciosa hasta que cancelan. Sin segmentar ese comportamiento, cualquier estrategia de retención o de nuevos planes termina siendo un tiro al aire.
+<details>
+<summary>Ver contexto completo</summary>
 
-En este contexto se enmarca el análisis de ConnectaTel, empresa de telecomunicaciones en Latinoamérica, a partir de tres fuentes de datos: planes contratados, perfil de clientes y detalle real de uso. El equipo de negocio necesitaba respuestas concretas: ¿qué segmentos de clientes existen según su nivel de consumo y edad?, ¿quiénes están en riesgo de cancelar su servicio?, ¿quiénes podrían migrar a un plan superior?, ¿qué inconsistencias había en los datos y cómo afectaban las conclusiones?
+[En telecomunicaciones, todos los clientes pagan un plan, pero no todos lo usan igual. Algunos exceden sus límites mes tras mes sin darse cuenta de que un plan superior les saldría más barato; otros pagan por minutos y datos que jamás consumen, acumulando frustración silenciosa hasta que cancelan. Sin segmentar ese comportamiento, cualquier estrategia de retención o de nuevos planes termina siendo un tiro al aire.
 
-</div>
+En este contexto se enmarca el análisis de ConnectaTel, empresa de telecomunicaciones en Latinoamérica, a partir de tres fuentes de datos: planes contratados, perfil de clientes y detalle real de uso. El equipo de negocio necesitaba respuestas concretas: ¿qué segmentos de clientes existen según su nivel de consumo y edad?, ¿quiénes están en riesgo de cancelar su servicio?, ¿quiénes podrían migrar a un plan superior?, ¿qué inconsistencias había en los datos y cómo afectaban las conclusiones?]
 
-**Preguntas Clave:**
+</details>
+
+**Preguntas clave que respondí:**
 ¿Qué segmentos de clientes muestran mayor o menor uso de llamadas y mensajes?
 ¿Qué usuarios presentan valores atípicos que puedan indicar comportamientos inusuales, fraude o errores de registro?
 ¿Cómo varía el uso según la edad y el tipo de plan contratado?
 ¿Qué patrones pueden ayudar a diseñar mejores planes, optimizar la oferta y mejorar la satisfacción del cliente?
 
-
-**Proyecto completo**
 [![Open in GitHub](https://img.shields.io/badge/GitHub-Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nardusmar/Project-ConnectaTel.git)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1JDWpRQ0K_Oz0oUl_oztx1KgnfwoJkBVO/view?usp=sharing) 
 
-  
-**[Dashboard Ejecutivo de Desempeño Comercial – Sector Inmobiliario](#)**  
+**[Dashboard Ejecutivo de Desempeño Comercial]**
 `Power BI` · `SQL`  
-Estructuración de datos de ventas, clientes y propiedades en métricas de desempeño comercial (conversión, ticket promedio, comportamiento de clientes), visualizadas en un dashboard ejecutivo usado por dirección para decisiones estratégicas de crecimiento.
 
-**Preguntas Clave:**
+> Construí un dashboard ejecutivo que traduce datos de ventas y clientes en métricas de conversión y ticket promedio para decisiones estratégicas de dirección.
+> 
+<details>
+<summary>Ver contexto completo</summary>
+
+[Estructuración de datos de ventas, clientes y propiedades en métricas de desempeño comercial (conversión, ticket promedio, comportamiento de clientes), visualizadas en un dashboard ejecutivo usado por dirección para decisiones estratégicas de crecimiento.]
+
+</details>
+
+**Preguntas clave que respondí:**
 ¿Cuál es el ingreso total generado por las ventas de propiedades?
 ¿Qué tipo de propiedad genera más ingresos?
 ¿Qué segmentos de clientes compran más?
 ¿Cómo evolucionan las ventas en el tiempo?
 ¿El negocio está creciendo año contra año?
 
-**Proyecto completo**
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Bj8pCDVL8haCjauE9jQABpyiW_5WGZVU/view?usp=drive_link) 
+
+
+  
+
+
